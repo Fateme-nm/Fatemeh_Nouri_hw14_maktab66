@@ -1,0 +1,14 @@
+.color {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    border-bottom: 0.5px solid rgba(115, 87, 131, 0.157);
+}
+
+.colorSign {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-right: 0.5rem;
+    border-radius: 2px;
+}

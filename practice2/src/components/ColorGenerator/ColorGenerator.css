@@ -1,0 +1,41 @@
+.container {
+    width: 20rem;
+    height: 26rem;
+    overflow: hidden;
+    background-color: rgb(90, 70, 134);
+    padding: 2rem 3rem;
+    border-radius: 2px;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-size: 2.2rem;
+}
+
+.addBtn {
+    border: none;
+    padding: 0.8rem ;
+    font-size: 1.2rem;
+    background-color: rgb(140, 96, 165);
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.addBtn:hover {
+    background-color: rgb(131, 91, 155);
+}
+
+.colorList {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    height: 16rem;
+    overflow: hidden;
+    background-color: rgb(236, 236, 236);
+    color: rgb(59, 22, 94);
+    border-radius: 2px;
+}

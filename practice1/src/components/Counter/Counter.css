@@ -1,0 +1,27 @@
+.container {
+    width: 18rem;
+    height: 16rem;
+    background-color: rgb(49, 120, 131);
+    padding: 2rem 2.5rem;
+    border-radius: 2px;
+}
+
+.title {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+.counter {
+    margin: 1rem 0 2rem;
+    background-color: rgb(244, 248, 244);
+    color: rgb(2, 126, 126);
+    padding: 0.8rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+    border-radius: 2px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+}

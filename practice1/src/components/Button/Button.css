@@ -1,0 +1,17 @@
+.btn {
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(25, 167, 167);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    width: 31%;
+    transition: all ease-out 0.3s;
+}
+
+.btn:hover {
+    background-color: rgb(21, 143, 143);
+    transform: translateY(-3px);
+}
